@@ -1,0 +1,10 @@
+E:\Own-Databse-Rust\rust_db\target\debug\deps\libclipboard_win-5ddf293f0630805d.rmeta: C:\Users\Dev\ Pratap\ Singh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\lib.rs C:\Users\Dev\ Pratap\ Singh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\formats.rs C:\Users\Dev\ Pratap\ Singh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\raw.rs C:\Users\Dev\ Pratap\ Singh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\utils.rs
+
+E:\Own-Databse-Rust\rust_db\target\debug\deps\libclipboard_win-5ddf293f0630805d.rlib: C:\Users\Dev\ Pratap\ Singh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\lib.rs C:\Users\Dev\ Pratap\ Singh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\formats.rs C:\Users\Dev\ Pratap\ Singh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\raw.rs C:\Users\Dev\ Pratap\ Singh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\utils.rs
+
+E:\Own-Databse-Rust\rust_db\target\debug\deps\clipboard_win-5ddf293f0630805d.d: C:\Users\Dev\ Pratap\ Singh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\lib.rs C:\Users\Dev\ Pratap\ Singh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\formats.rs C:\Users\Dev\ Pratap\ Singh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\raw.rs C:\Users\Dev\ Pratap\ Singh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\utils.rs
+
+C:\Users\Dev\ Pratap\ Singh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\lib.rs:
+C:\Users\Dev\ Pratap\ Singh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\formats.rs:
+C:\Users\Dev\ Pratap\ Singh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\raw.rs:
+C:\Users\Dev\ Pratap\ Singh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\utils.rs:

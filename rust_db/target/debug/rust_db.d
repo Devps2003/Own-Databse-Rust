@@ -1,1 +1,1 @@
-E:\Own-Databse-Rust\rust_db\target\debug\rust_db.exe: E:\Own-Databse-Rust\rust_db\src\main.rs
+E:\Own-Databse-Rust\rust_db\target\debug\rust_db.exe: E:\Own-Databse-Rust\rust_db\src\errors.rs E:\Own-Databse-Rust\rust_db\src\main.rs E:\Own-Databse-Rust\rust_db\src\parser.rs E:\Own-Databse-Rust\rust_db\src\repl.rs E:\Own-Databse-Rust\rust_db\src\storage.rs E:\Own-Databse-Rust\rust_db\src\tokenizer.rs E:\Own-Databse-Rust\rust_db\src\vm.rs
